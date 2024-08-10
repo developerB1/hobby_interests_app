@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "465548787486",
+    "project_id": "hobby-interests-app",
+    "storage_bucket": "hobby-interests-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465548787486:android:4ef79e614315bc0516130f",
+        "android_client_info": {
+          "package_name": "com.hobbyinterests.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm6IerfUdLnekNuNaUkc-w7KUojw63uBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
